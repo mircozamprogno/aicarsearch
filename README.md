@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚗 AI Car Search App
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/mircozamprogno/aicarsearch)
@@ -30,3 +31,6 @@ An intelligent, AI-powered car search application that understands natural langu
 - Node.js 20.19.0+ or 22.12.0+
 - Supabase account
 - OpenAI API key
+=======
+# aicarsearch
+>>>>>>> f49102a5eeec7ca4d05528eb6df7bfed51e1d68e
