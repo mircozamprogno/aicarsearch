@@ -1,0 +1,4 @@
+curl -X POST 'https://spbzdtcbjvrjjldlahqx.supabase.co/functions/v1/aicarsearch' \
+  -H 'Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNwYnpkdGNianZyampsZGxhaHF4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTMyOTk4MTQsImV4cCI6MjA2ODg3NTgxNH0.VM6wbtFswc3x70LDz4Nw6gsWfXnYpv_pzXIOs5cP3kk' \
+  -H 'Content-Type: application/json' \
+  -d '{"message": "Cerco una macchina ibrida sotto i 25000 euro","language": "it"}'
